@@ -8,7 +8,7 @@ namespace Api.Data.Mapping
     {
         public void Configure(EntityTypeBuilder<UserEntity> builder)
         {
-            builder.ToTable("User");
+            builder.ToTable("Users");
 
             builder.HasKey(u => u.Id);
 
