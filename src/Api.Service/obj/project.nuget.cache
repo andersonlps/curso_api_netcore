@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ITwNWpsJKC6FsoA5p2fIgrD04gP39qNgr9Yq+cWaCNqyzZQd1HWYaU5ugCTSx3B0SMfAkBlqVkO7wq2R79dPOw==",
+  "dgSpecHash": "Yjnf00x46MuIwS1Gj+UOgX0tsuSNtkqdOJOdO5dSRJ/4HVnjlmBVETctDw9Y4V6A21MCgjxyvQYO4qU8BldUzg==",
   "success": true,
   "projectFilePath": "C:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Service\\Service.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ander\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\ander\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\ander\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
-    "C:\\Users\\ander\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\ander\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\ander\\.nuget\\packages\\microsoft.data.sqlclient\\1.1.3\\microsoft.data.sqlclient.1.1.3.nupkg.sha512",
     "C:\\Users\\ander\\.nuget\\packages\\microsoft.entityframeworkcore\\3.1.32\\microsoft.entityframeworkcore.3.1.32.nupkg.sha512",
     "C:\\Users\\ander\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\3.1.32\\microsoft.entityframeworkcore.abstractions.3.1.32.nupkg.sha512",
