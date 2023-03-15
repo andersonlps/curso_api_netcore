@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Data.Migrations
 {
     [DbContext(typeof(MyContext))]
-    [Migration("20230313193949_UserMigration")]
+    [Migration("20230315201047_UserMigration")]
     partial class UserMigration
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -29,17 +29,33 @@ namespace Data.Migrations
                         .HasColumnType("datetime(6)");
 
                     b.Property<string>("Email")
-                        .HasColumnType("longtext CHARACTER SET utf8mb4");
+                        .HasColumnType("varchar(100) CHARACTER SET utf8mb4")
+                        .HasMaxLength(100);
 
                     b.Property<string>("Name")
-                        .HasColumnType("longtext CHARACTER SET utf8mb4");
+                        .IsRequired()
+                        .HasColumnType("varchar(60) CHARACTER SET utf8mb4")
+                        .HasMaxLength(60);
 
                     b.Property<DateTime?>("UpdateAt")
                         .HasColumnType("datetime(6)");
 
                     b.HasKey("Id");
 
+                    b.HasIndex("Email")
+                        .IsUnique();
+
                     b.ToTable("Users");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = new Guid("6739a501-bea8-4862-b858-c5d7aa92e0bf"),
+                            CreatAt = new DateTime(2023, 3, 15, 17, 10, 47, 147, DateTimeKind.Local).AddTicks(1207),
+                            Email = "lpsinfo@mail.com",
+                            Name = "Administrador",
+                            UpdateAt = new DateTime(2023, 3, 15, 17, 10, 47, 148, DateTimeKind.Local).AddTicks(2710)
+                        });
                 });
 #pragma warning restore 612, 618
         }
