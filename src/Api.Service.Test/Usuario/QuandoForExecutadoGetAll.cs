@@ -15,7 +15,7 @@ namespace Api.Service.Test.Usuario
         private Mock<IUserService> _serviceMock;
 
         [Fact(DisplayName = "É Possível Executar o Método GETALL.")]
-        public async Task E_POSSIVEL_EXECUTAR_METODO_GETALL()
+        public async Task E_Possivel_Executar_Metodo_GetAll()
         {
             _serviceMock = new Mock<IUserService>();
             _serviceMock.Setup(m => m.GetAll()).ReturnsAsync(listaUserDto);

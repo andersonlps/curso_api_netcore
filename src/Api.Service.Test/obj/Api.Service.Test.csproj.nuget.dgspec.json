@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Service.Test\\Api.Service.Test.csproj": {}
+    "c:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Service.Test\\Api.Service.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj": {
+    "c:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj",
+        "projectUniqueName": "c:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj",
         "projectName": "CrossCutting",
-        "projectPath": "C:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj",
+        "projectPath": "c:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj",
         "packagesPath": "C:\\Users\\ander\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.CrossCutting\\obj\\",
+        "outputPath": "c:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ander\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,14 +27,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Data\\Data.csproj": {
-                "projectPath": "C:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Data\\Data.csproj"
+              "c:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Data\\Data.csproj": {
+                "projectPath": "c:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Data\\Data.csproj"
               },
-              "C:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj"
+              "c:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "c:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj"
               },
-              "C:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Service\\Service.csproj": {
-                "projectPath": "C:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Service\\Service.csproj"
+              "c:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Service\\Service.csproj": {
+                "projectPath": "c:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Service\\Service.csproj"
               }
             }
           }
@@ -76,14 +76,14 @@
         }
       }
     },
-    "C:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Data\\Data.csproj": {
+    "c:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Data\\Data.csproj",
+        "projectUniqueName": "c:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Data\\Data.csproj",
+        "projectPath": "c:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Data\\Data.csproj",
         "packagesPath": "C:\\Users\\ander\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Data\\obj\\",
+        "outputPath": "c:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ander\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -99,8 +99,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj"
+              "c:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "c:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj"
               }
             }
           }
@@ -154,14 +154,14 @@
         }
       }
     },
-    "C:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj": {
+    "c:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj",
+        "projectUniqueName": "c:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj",
+        "projectPath": "c:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\ander\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Domain\\obj\\",
+        "outputPath": "c:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ander\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -212,14 +212,14 @@
         }
       }
     },
-    "C:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Service.Test\\Api.Service.Test.csproj": {
+    "c:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Service.Test\\Api.Service.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Service.Test\\Api.Service.Test.csproj",
+        "projectUniqueName": "c:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Service.Test\\Api.Service.Test.csproj",
         "projectName": "Api.Service.Test",
-        "projectPath": "C:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Service.Test\\Api.Service.Test.csproj",
+        "projectPath": "c:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Service.Test\\Api.Service.Test.csproj",
         "packagesPath": "C:\\Users\\ander\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Service.Test\\obj\\",
+        "outputPath": "c:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Service.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ander\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -235,14 +235,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj": {
-                "projectPath": "C:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj"
+              "c:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj": {
+                "projectPath": "c:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj"
               },
-              "C:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj"
+              "c:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "c:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj"
               },
-              "C:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Service\\Service.csproj": {
-                "projectPath": "C:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Service\\Service.csproj"
+              "c:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Service\\Service.csproj": {
+                "projectPath": "c:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Service\\Service.csproj"
               }
             }
           }
@@ -308,14 +308,14 @@
         }
       }
     },
-    "C:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Service\\Service.csproj": {
+    "c:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Service\\Service.csproj",
+        "projectUniqueName": "c:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "C:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Service\\Service.csproj",
+        "projectPath": "c:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Service\\Service.csproj",
         "packagesPath": "C:\\Users\\ander\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Service\\obj\\",
+        "outputPath": "c:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ander\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -331,11 +331,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Data\\Data.csproj": {
-                "projectPath": "C:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Data\\Data.csproj"
+              "c:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Data\\Data.csproj": {
+                "projectPath": "c:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Data\\Data.csproj"
               },
-              "C:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj"
+              "c:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "c:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj"
               }
             }
           }

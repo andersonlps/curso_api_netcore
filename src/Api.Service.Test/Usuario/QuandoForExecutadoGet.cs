@@ -13,7 +13,7 @@ namespace Api.Service.Test.Usuario
         private Mock<IUserService> _serviceMock;
 
         [Fact(DisplayName = "É Possível Executar o Método GET.")]
-        public async Task E_POSSIVEL_EXECUTAR_METODO_GET()
+        public async Task E_Possivel_Executar_Metodo_Get()
         {
             _serviceMock = new Mock<IUserService>();
             _serviceMock.Setup(m => m.Get(IdUsuario)).ReturnsAsync(userDto);
