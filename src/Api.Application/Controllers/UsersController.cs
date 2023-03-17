@@ -51,7 +51,12 @@ namespace Api.Application.Controllers
 
             try
             {
-                return Ok(await _service.Get(id));
+                var result = await _service.Get(id);
+                if (result == null)
+                {
+                    return NotFound();
+                }
+                return Ok(result);
             }
             catch (ArgumentException e)
             {
@@ -113,8 +118,8 @@ namespace Api.Application.Controllers
             }
         }
 
-        [Authorize("Bearer")]  
-        [HttpDelete ("{id}")]
+        [Authorize("Bearer")]
+        [HttpDelete("{id}")]
         public async Task<ActionResult> Delete(Guid id)
         {
             if (!ModelState.IsValid)

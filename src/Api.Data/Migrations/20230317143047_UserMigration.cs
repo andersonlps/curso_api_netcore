@@ -12,7 +12,7 @@ namespace Data.Migrations
                 columns: table => new
                 {
                     Id = table.Column<Guid>(nullable: false),
-                    CreatAt = table.Column<DateTime>(nullable: true),
+                    CreateAt = table.Column<DateTime>(nullable: true),
                     UpdateAt = table.Column<DateTime>(nullable: true),
                     Name = table.Column<string>(maxLength: 60, nullable: false),
                     Email = table.Column<string>(maxLength: 100, nullable: true)
@@ -24,8 +24,8 @@ namespace Data.Migrations
 
             migrationBuilder.InsertData(
                 table: "Users",
-                columns: new[] { "Id", "CreatAt", "Email", "Name", "UpdateAt" },
-                values: new object[] { new Guid("6739a501-bea8-4862-b858-c5d7aa92e0bf"), new DateTime(2023, 3, 15, 17, 10, 47, 147, DateTimeKind.Local).AddTicks(1207), "lpsinfo@mail.com", "Administrador", new DateTime(2023, 3, 15, 17, 10, 47, 148, DateTimeKind.Local).AddTicks(2710) });
+                columns: new[] { "Id", "CreateAt", "Email", "Name", "UpdateAt" },
+                values: new object[] { new Guid("025a5fdf-b309-4b55-a9c3-fe5f9f88a776"), new DateTime(2023, 3, 17, 11, 30, 46, 668, DateTimeKind.Local).AddTicks(6498), "lpsinfo@mail.com", "Administrador", new DateTime(2023, 3, 17, 11, 30, 46, 670, DateTimeKind.Local).AddTicks(783) });
 
             migrationBuilder.CreateIndex(
                 name: "IX_Users_Email",

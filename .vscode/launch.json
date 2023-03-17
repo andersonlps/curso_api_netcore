@@ -21,9 +21,12 @@
             },
             "env": {
                 "ASPNETCORE_ENVIRONMENT": "Development",
-                "DB_CONNECTION": "Server=localhost;Port=3306;Database=dbAPI1;Uid=root;Pwd=andersonlps123",
+                "DB_CONNECTION": "Persist Security Info=True;Server=localhost;Port=3306;Database=dbAPI1;Uid=root;Pwd=andersonlps123",
                 "DATABASE": "MYSQL",
-                "MIGRATION": "APLICAR"
+                "MIGRATION": "APLICAR",
+                "Audience": "ExemploAudience",
+                "Issuer": "ExemploIssuer",
+                "Seconds": "28800"
             },
             "sourceFileMap": {
                 "/Views": "${workspaceFolder}/Views"

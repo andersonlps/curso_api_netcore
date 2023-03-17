@@ -30,7 +30,7 @@ namespace Api.Application.Controllers
                 var result = await service.FindByLogin(loginDto);
                 if (result != null)
                 {
-                    return Ok(result);
+                    return result;
                 }
                 else
                 {
