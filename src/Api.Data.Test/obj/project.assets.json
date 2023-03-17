@@ -7870,11 +7870,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Data.Test\\Api.Data.Test.csproj",
+      "projectUniqueName": "c:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Data.Test\\Api.Data.Test.csproj",
       "projectName": "Api.Data.Test",
-      "projectPath": "C:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Data.Test\\Api.Data.Test.csproj",
+      "projectPath": "c:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Data.Test\\Api.Data.Test.csproj",
       "packagesPath": "C:\\Users\\ander\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Data.Test\\obj\\",
+      "outputPath": "c:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Data.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ander\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7890,14 +7890,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj": {
-              "projectPath": "C:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj"
+            "c:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj": {
+              "projectPath": "c:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj"
             },
-            "C:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Data\\Data.csproj": {
-              "projectPath": "C:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Data\\Data.csproj"
+            "c:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Data\\Data.csproj": {
+              "projectPath": "c:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Data\\Data.csproj"
             },
-            "C:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj"
+            "c:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj": {
+              "projectPath": "c:\\Users\\ander\\workspace\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj"
             }
           }
         }

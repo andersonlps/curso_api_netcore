@@ -22,7 +22,7 @@ namespace Api.Data.Context
                     Id = Guid.NewGuid(),
                     Name = "Administrador",
                     Email = "lpsinfo@mail.com",
-                    CreatAt = DateTime.Now,
+                    CreateAt = DateTime.Now,
                     UpdateAt = DateTime.Now
                 }
             );
