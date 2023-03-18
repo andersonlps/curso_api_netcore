@@ -149,3 +149,4 @@ C:\Users\ander\workspace\curso_api_netcore\src\Api.Data.Test\obj\Debug\netcoreap
 c:\Users\ander\workspace\curso_api_netcore\src\Api.Data.Test\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
 c:\Users\ander\workspace\curso_api_netcore\src\Api.Data.Test\bin\Debug\netcoreapp3.1\Faker.NETCore.dll
 c:\Users\ander\workspace\curso_api_netcore\src\Api.Data.Test\bin\Debug\netcoreapp3.1\de-DE\Faker.NETCore.resources.dll
+C:\Users\ander\workspace\curso_api_netcore\src\Api.Data.Test\bin\Debug\netcoreapp3.1\xunit.runner.json

@@ -161,3 +161,4 @@ C:\Users\ander\workspace\curso_api_netcore\src\Api.Integration.Test\obj\Debug\ne
 C:\Users\ander\workspace\curso_api_netcore\src\Api.Integration.Test\obj\Debug\netcoreapp3.1\Api.Integration.Test.dll
 C:\Users\ander\workspace\curso_api_netcore\src\Api.Integration.Test\obj\Debug\netcoreapp3.1\Api.Integration.Test.pdb
 C:\Users\ander\workspace\curso_api_netcore\src\Api.Integration.Test\obj\Debug\netcoreapp3.1\Api.Integration.Test.genruntimeconfig.cache
+C:\Users\ander\workspace\curso_api_netcore\src\Api.Integration.Test\bin\Debug\netcoreapp3.1\xunit.runner.json
